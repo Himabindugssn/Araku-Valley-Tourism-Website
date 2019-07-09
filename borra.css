@@ -1,0 +1,40 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 6 Jul, 2019, 4:59:32 PM
+    Author     : himu
+*/
+/* for image center */
+            .center {
+                display: block;
+                margin-left: auto;
+                margin-right: auto;
+                width: 50%;
+            }
+
+            /* for navbar */
+            #navbar {
+                background-color: #333; /* Black background color */
+                position: fixed; /* Make it stick/fixed */
+                top: 0; /* Stay on top */
+                width: 100%; /* Full width */
+                transition: top 0.3s; /* Transition effect when sliding down (and up) */
+            }
+
+            /* Style the navbar links */
+            #navbar a {
+                float: left;
+                display: block;
+                color: white;
+                text-align: center;
+                padding: 15px;
+                text-decoration: none;
+            }
+
+            #navbar a:hover {
+                background-color: #ddd;
+                color: black;
+            }
