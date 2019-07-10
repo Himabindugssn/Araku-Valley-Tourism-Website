@@ -1,9 +1,10 @@
 # Araku-Valley-Tourism-Website
 A  multi-page website for Araku Valley tourism created using HTML,CSS and Javascript.No templates have been used.
 
-The following link has a video of how the website works:
- https://drive.google.com/file/d/1GRsxofrk2l2FUlXyZfkdvqNffJ7A3VOC/view?usp=sharing
- 
+Visit:
+https://himabindugssn.github.io/Araku-Valley-Tourism-Website/
+
+
  Home page:
  
  
@@ -28,6 +29,11 @@ Hotels:
 Contact Us:
 
 ![bandicam 2019-07-09 16-30-04-751](https://user-images.githubusercontent.com/47247696/60883244-4eddca00-a267-11e9-8a3a-7ade6c7591c3.jpg)
+
+
+The following link has a video of how the website works:
+ https://drive.google.com/file/d/1GRsxofrk2l2FUlXyZfkdvqNffJ7A3VOC/view?usp=sharing
+ 
 
  
  References:
